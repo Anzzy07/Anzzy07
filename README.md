@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://anzelacharya.com.np/](https://anzelacharya.com.np/)
+- 👨‍💻 Feel free to reach out my portfolio [https://anzelacharya.com.np/](https://anzelacharya.com.np/)
 
 - 💬 Ask me about **react, react-native**
 
