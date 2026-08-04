@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzzy07" alt="anzzy07" /></a> </p>
 
-- 🌱 I’m currently learning to be ** AI full stack developer **
+- 🌱 I’m currently learning to be **AI full stack developer**
 
 - 👨‍💻 Feel free to reach out my portfolio [https://anzelacharya.com.np/](https://anzelacharya.com.np/)
 
